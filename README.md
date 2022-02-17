@@ -1,7 +1,7 @@
 <img align="right" heigth="590cm" src="https://raw.githubusercontent.com/gist/Samueelc/c824c23c18b5c8d2be8737e7b0c1e666/raw/a283cc14148483fd93385a8c11e8b58c3b38ef28/githubcard.svg"/>
 
 <h1 align="left">Hi , I'm Samuel Caldas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samueelc&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=blue" alt="Profile views" /> </p>
 
 - ⚙ Engenheiro de Produção
 - 📊 Acadêmico de Matemática Aplicada & Computacional
